@@ -1,5 +1,5 @@
 # Vivado-PS-PL-Notes
-Instructions on PS-PL communication for FPGAs with on-board CPUs
+Instructions on PS-PL communication for ZYNQ SoCs
 
 General Vivado troubleshooting guide:
 https://docs.xilinx.com/r/en-US/ug908-vivado-programming-debugging/Introduction
