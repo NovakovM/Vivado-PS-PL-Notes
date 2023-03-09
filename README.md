@@ -7,7 +7,7 @@ https://docs.xilinx.com/r/en-US/ug908-vivado-programming-debugging/Introduction
 Installing board files for Vivado:
 https://digilent.com/reference/programmable-logic/guides/installing-vivado-and-vitis#install_digilent_s_board_files
 
-If your hardware target does not show up in Vivado, vablel drivers may not be installed properly:
+If your hardware target does not show up in Vivado, cabel drivers may not be installed properly:
 https://support.xilinx.com/s/article/59128?language=en_US
 
 Notes:
