@@ -15,6 +15,6 @@ Empty application C (or C++). Click finish.
 
 Important directories:
 
-  wrapper/hw/drivers (files for custom ip blocks that contain register offsets)
+  /wrapper/hw/drivers (files for custom ip blocks that contain register offsets)
   
   /wrapper/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/include/xparameters.h (file should always be called xparamaters.h and can be found in a few locations,    contains adress locations for ip blocks)
