@@ -3,7 +3,8 @@ Go to tools -> Create and Package New IP
 
 IMPORTANT IP BLOCKS:
 
-This block is necessary for PS: ![image](https://user-images.githubusercontent.com/84331501/232920282-3a697d9d-ead7-44d0-aca9-296fb8fdbd7a.png)
+This block is necessary for PS: 
+![image](https://user-images.githubusercontent.com/84331501/232920282-3a697d9d-ead7-44d0-aca9-296fb8fdbd7a.png)
 
 AXI GPIO is used very often: ![image](https://user-images.githubusercontent.com/84331501/232920485-85feca31-e367-4e1b-9973-82fc2739f891.png)
 
