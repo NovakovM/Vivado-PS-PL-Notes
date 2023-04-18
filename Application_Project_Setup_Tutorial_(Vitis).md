@@ -18,3 +18,6 @@ Important directories:
   /wrapper/hw/drivers (files for custom ip blocks that contain register offsets)
   
   /wrapper/zynq_fsbl/zynq_fsbl_bsp/ps7_cortexa9_0/include/xparameters.h (file should always be called xparamaters.h and can be found in a few locations,    contains adress locations for ip blocks)
+  
+To run file:
+![image](https://user-images.githubusercontent.com/84331501/232917242-c9f7cd00-0a4f-4c04-99c9-f08e55bf4901.png)
